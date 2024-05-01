@@ -1,0 +1,25 @@
+.app {
+  text-align: center;
+}
+
+.app h1 {
+  color: green;
+}
+
+.games {
+  display: flex;
+  justify-content: space-around;
+  width: 50%;
+  margin: auto;
+}
+
+.button {
+  width: 250px;
+  border-radius: 10px;
+  font-weight: bold;
+  font-size: 20px;
+  color: black;
+  background-color: green;
+  border-color: transparent;
+  padding: 10px;
+}
